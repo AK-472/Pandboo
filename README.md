@@ -1,4 +1,5 @@
 # Pandboo
+UPDATE: DON'T DOWNLOAD THE ZIP FILE FOR SOME REASON YOU CAN'T DELETE THE FOLDER
 A videogame where you are a panda who collects bamboo and avoid the steak 
 
 How to play:
